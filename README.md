@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nishant7414
-- 👀 I’m interested in Web Development,Devops,UI/UX.
+- 👀 I’m interested in Web Development,UI/UX.
 - 🌱 I’m currently learning HTML,CSS,JS.
 - 📫 How to reach me Linkedin https://www.linkedin.com/in/nishant-kumar-5ab48a260
 
