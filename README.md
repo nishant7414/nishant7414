@@ -1,5 +1,18 @@
 # 💫 About Me:
-👋 Hi, I’m @nishant7414<br>👀 I’m interested in Web Development,UI/UX.<br>🌱 I’m currently learning HTML,CSS,Javascript.<br>
+🚀 Building Tech That Makes a Difference**  
+
+Hey there! I’m Nishant, a passionate developer who loves crafting solutions that solve real-world challenges. From optimizing full-stack applications to integrating AI for smarter experiences, I enjoy turning ideas into impactful projects.  
+
+💡 **Currently Exploring:**  
+- Full-stack development with a focus on high-performance systems.  
+- Leveraging machine learning to add predictive capabilities to web applications.  
+
+🤝 **Excited to Collaborate On:**  
+- Scalable backend solutions and cloud-based integrations.  
+- AI-driven apps that enhance user interactions and experiences.  
+
+Your support helps me keep innovating, learning, and sharing my journey. Every coffee fuels my passion—thanks for being a part of it! ☕💙  
+
 
 
 ## 🌐 Socials:
