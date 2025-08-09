@@ -1,4 +1,6 @@
 💫 About Me:
+<h1 align="center" style="font-size:32px;">💫 About Me:</h1>
+
 
 
 🚀 Turning Data Into Decisions That Make an Impact.
