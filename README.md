@@ -1,5 +1,5 @@
-💫 About Me:
-<h1 align="center" style="font-size:32px;">💫 About Me:</h1>
+
+<h1 align="center" style="font-size:30px;">💫 About Me:</h1>
 
 
 
