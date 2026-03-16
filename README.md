@@ -13,7 +13,7 @@ Hey there! I’m Nishant, a data enthusiast passionate about uncovering insights
 * Building scalable ETL pipelines and cloud-based data solutions.
 * Leveraging Python, SQL, and cloud tools to automate reporting and analytics.
 
-🤝 Excited to Collaborate On:
+🤝 Excited to Collaborate On:-
 
 * Data analysis projects that drive business growth and decision-making.
 * Data engineering workflows that ensure clean, reliable, and real-time data access.
